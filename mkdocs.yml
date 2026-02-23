@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: "Учебный статический сайт"
+site_description: "Статический сайт, собранный с помощью MkDocs"
+site_author: "Павел Русов"
+
+theme:
+  name: null
+  custom_dir: docs/theme
